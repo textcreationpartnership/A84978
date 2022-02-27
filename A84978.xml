@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the late great victory, obtained by the Protestants against the rebells in Ireland; in which is declared the manner of the fight, with the number of those that are slaine; and the names of such men of ranke and qualitie, that are either slaine or taken prisoners. All which was sent from Dublin in a letter, dated the 5. of this instant moneth of Aprill, and received the 11. of the same, 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84978</idno>
+            <idno type="STC">Wing F2326</idno>
+            <idno type="STC">Thomason E96_6</idno>
+            <idno type="STC">ESTC R8634</idno>
+            <idno type="EEBO-CITATION">99873359</idno>
+            <idno type="PROQUEST">99873359</idno>
+            <idno type="VID">155809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155809)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the late great victory, obtained by the Protestants against the rebells in Ireland; in which is declared the manner of the fight, with the number of those that are slaine; and the names of such men of ranke and qualitie, that are either slaine or taken prisoners. All which was sent from Dublin in a letter, dated the 5. of this instant moneth of Aprill, and received the 11. of the same, 1643.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen: Overton, and Edward Blackmore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aprill the 12. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155809:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:155809:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A FVLL AND TRVE RELATION OF THE LATE GREAT VICTORY, Obtained by the <hi>Proteſtants</hi> againſt the Rebells in <hi>Jreland;</hi> In which is declared the manner of the Fight, with the number of thoſe that are ſlaine; and the Names of ſuch men of ranke and <hi>qualitie, that are either ſlaine or taken priſoners.</hi>
+            </p>
+            <p>All which was ſent from <hi>Dublin</hi> in a Letter, dated the 5. of this inſtant moneth of <hi>Aprill, and received the</hi> 11. <hi>of the ſame,</hi> 1643.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Hen: Overton,</hi> and <hi>Edward Blackmore,</hi> Aprill the 12. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155809:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:155809:2"/>
+            <!-- PDF PAGE 20 -->
+            <opener>
+               <dateline>Dublin <date>the 5<hi rend="sup">•</hi>h. of <hi>Aprill.</hi> 1643:</date>
+               </dateline>
+               <lb/>
+               <salute>LOVING BROTHER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wrote you at large by the laſt Poſt, of the happy ſucceſſe and ſafe returne of our Ar<g ref="char:EOLhyphen"/>mie; but becauſe the times are dangerous both by Sea and Land, and our Letters like to miſ<g ref="char:EOLhyphen"/>carry on both, and becauſe I would not have Gods mercies and power ſhewen for our de<g ref="char:EOLhyphen"/>fence, and confuſion of our adverſaries, to be caſt into oblivion, I ſhall give you a briefe re<g ref="char:EOLhyphen"/>hearſall thereof at this time, as neere as I can remember, and what I might then happily omit, I ſhall give you now to un<g ref="char:EOLhyphen"/>deſtand. In my former Letters, I wrote of all the paſſages that were in their going forth from the firſt of <hi>March</hi> to the eighth, ſo far as <hi>Ballenepark</hi> in the Countie of <hi>Wexford,</hi> 15. miles from the Town of <hi>Wexford,</hi> as we received Intelligence on the returne of the Earle of <hi>Roſcommon.</hi> From <hi>Ballenepark</hi> they ſet forward the 9. towards <hi>Roſſe,</hi> and the horſe came to <hi>Roſſe</hi> going before the foote, the 10. of <hi>March,</hi> at which time if the whole Army had been there, they had taken the Town, but the enemy being abroad in the field, hindred that part of our foote that was to accompany our horſe in their journey, and forct them to retreat toward the Body of our Armie; the horſe having left them and gone before, ſo that our horſe alſo made backe againe; In the meane time, they ſhat their gates, and got ſtore of men into the Towne, before the main body of our Armie could get thither, they came before the Towne the eleventh, and lay there to the ſeventeenth, and
+<pb n="2" facs="tcp:155809:3"/>
+               <!-- PDF PAGE 21 -->being diſappointed of their Granadoes, and their Garriſon coming by Sea, was forct to leave it; for by that time the enemy were ſtrong, both within and without, ſo that our Armie expected that <hi>Preſton</hi> would have given them Battle on St. <hi>Patricks</hi> day; the 17. of <hi>March</hi> being Friday, and ac<g ref="char:EOLhyphen"/>cordingly made ready to fight with him, which was accom<g ref="char:EOLhyphen"/>pliſhed on Saterday the 18th. at <hi>Knockduffe, alias,</hi> called the hill of <hi>Balleregagh,</hi> with much courage on the Rebells ſide, in ſo much, that the right wing of our horſe was routed, and the day given to be loſt, in which ſome of our Commanders were very much to blame, and Sir <hi>Thomas Lucas</hi> being given to be loſt, being twice cut over the head, it went by that meanes very ill there, and gave ſuch advantage and courage to the Rebells to goe on, that ſome of their horſe brake through our Armie, and came to the Carriages, but could not returne the ſame way, and Lievtenant Generall <hi>Cullin</hi> came up to the very Ordnance, thinking to have ſurpriſed them; but his horſe was ſhot under him, &amp; himſelfe (not being well ſeconded) taken priſoner. In which time the Marqueſſe of <hi>Ormond</hi> ſhewed both his valour and inveterate hatred againſt his kinſmen and Countreymen for their Rebellion, he put himſelfe ſo forward, that he was accounted to have been ei<g ref="char:EOLhyphen"/>ther ſlaine or taken priſoner; In this time the left wing of our horſe, (not knowing the danger of the right) did admira<g ref="char:EOLhyphen"/>ble good ſervice, and the foote the like; meane while our Ordnance playd, but at firſt did little hurt to the Rebells, but having new Maſters, (by meanes of two Veſſels that they ſanke to prevent the Rogues taking of them in comming to<g ref="char:EOLhyphen"/>wards <hi>Roſſe</hi> with neceſſaries for our Army) they did in the end great execution; theſe men being Ship-men were nim<g ref="char:EOLhyphen"/>ble, and better skild then thoſe Gunners wee had before, which put ſuch terrour into the Rogues, that the maine bo<g ref="char:EOLhyphen"/>dy
+<pb n="3" facs="tcp:155809:3"/>
+               <!-- PDF PAGE 21 -->of foote fled, and the left wing of the horſe had them in purſuit, but there were ſo much good Cloaths lay up and downe by the way, that the winde of our Ordnance had ſcat<g ref="char:EOLhyphen"/>tered in the field, and ſuch want of them among our men, that ſpoyld the purſuit: their horſes could hardly be gotten to goe by: the right wing of horſe not able yet to ſet them<g ref="char:EOLhyphen"/>ſelves againe in order, was nothing expected to be done by them, Sir <hi>Thomas Lucas</hi> head being downe, (but ſince on the mending hand, and great hopes of his recovery) whereby there were not above 200. ſlaine as yet come to our intelli<g ref="char:EOLhyphen"/>gence for certain, not there in the place; but of thoſe about foureſcore Commanders, men both of wealth, note, and va<g ref="char:EOLhyphen"/>lour, beſides the priſoners taken, but doubtleſſe there were many hundreds that were carried away dead, and that carried away their deadly wounds with them, much good may it doe them. The names of thoſe that were found dead, viewed and knowne by our Armie in the field, were Colonel <hi>Thomas Butler,</hi> ſonne to Sir <hi>Richard Butler,</hi> Lievtenant Colonell <hi>Browne</hi> of <hi>Mulcankin, Beverly Brittaine</hi> of <hi>Lyons Caſtle.</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Henry Bagnall.</hi> Captain <hi>Thomas Scarlock,</hi> one that did us much miſchiefe in thoſe parts. Sir <hi>Morgan Cavenagh,</hi> ſhot twice but eſcaped, ſince reported to be dead. Captain <hi>Brian.</hi> Captain <hi>Donogh O Brian.</hi> Captain <hi>Theobald Butler.</hi> Captain <hi>Edward Butler.</hi> Captain <hi>Maſterſon.</hi> Captain <hi>Synnot.</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Newgent.</hi> Captain <hi>Gerald fitz Gerald.</hi> Captain <hi>Thomas Plunket,</hi> Major Generall of the Horſe.</p>
+            <p>Moſt of theſe were the Lord Marqueſſe of <hi>Ormonds</hi> kinſ<g ref="char:EOLhyphen"/>men, and men of great qualitie: my Lord took a good courſe with them, for feare of counterfeiting themſelves dead, he cauſed them to be put into the ground. I heare of divers ſlaine, as <hi>Robert Harthale,</hi> &amp;c. and ſome others, but I know not if they be the men by name that I have ſet downe above,
+<pb n="4" facs="tcp:155809:4"/>
+               <!-- PDF PAGE 22 -->as the brother to my Lord of <hi>Dunboyne,</hi> who is a <hi>Buttler,</hi> and the ſecond ſonne to my Lord <hi>Mountgarret,</hi> whoſe name is <hi>Buttler.</hi> Thoſe that are taken priſoners are, Lieut. Generall <hi>Cullin,</hi> who was a gentleman with Cardinall <hi>Loſhellew</hi> in France. Sarjeant Major <hi>Buttler,</hi> I think his name is <hi>Pearce Buttler. Walter Buttler,</hi> Captain <hi>Bryan,</hi> Captain <hi>Grant Chri<g ref="char:EOLhyphen"/>ſtopher Newſent, Edward Maiſterſon</hi> and his brother.</p>
+            <p>There are 14. or 16. priſoners all Commanders that day in the field, whereof ſome are gone to <hi>Dublin,</hi> the Earle of <hi>Caſtlehaven</hi> made a very narrow eſcape, his horſe was ſhot under him; and if the brave clothes lying in the Field had not dazled our horſemens eyes, he had not eſcaped taking or killing; But that <hi>Butler</hi> who kept my Lord <hi>Ormond</hi> out of his Caſtle neer <hi>Tully,</hi> and would not yeeld it up was ſlaine there, and with our horſes running over him was troden in<g ref="char:EOLhyphen"/>to the dirt. It is admirable to think and hear, that their Ar<g ref="char:EOLhyphen"/>mie conſiſting of about 7. or 8000. foot, and 6. or 700. horſe, not an unneceſſary (not an unarmed) man, all choſen men (and horſe) of the Kingdome except the North parts of it; our right wing of horſe being as it were loſt ſhould be overthrown by ſo weak an Army of ours, being wearied with travell, wanting bread, and reſt as much or more, our horſes worne out for want of hay and oates, and with much travell, and little reſt, conſiſting of 2500. foot, and about 600 horſe, but what ſhall I more write, the Lord wil help us if <hi>England</hi> will not: and if there be any affection to us here, or the cauſe in hand, I hope there will be no longer delay. In this great conflict it is to be admired, that we loſt not 20. men, and not a man of any office ſlain, but Provoſt Martiall Generall <hi>Borras,</hi> man more eminent in place then ſouldier<g ref="char:EOLhyphen"/>ſhip, and meerly for want of care of himſelf, enduring in the cold without his wounds dreſt. Indeed he was a good Gen<g ref="char:EOLhyphen"/>tleman,
+<pb n="5" facs="tcp:155809:4"/>
+               <!-- PDF PAGE 22 -->and very valiant but no Souldier. Thoſe that we had hurt, were Sir <hi>Tho. Lucas,</hi> but upon recovery, Sarjeant Ma<g ref="char:EOLhyphen"/>jor <hi>Morris,</hi> (a notable peece of fleſh) but not mortally wounded: I hope it will prove but a badge of Honour.</p>
+            <p>Sir <hi>Richard Grynfield</hi> in the face, but no danger. We had news that Lieutenant Collonel <hi>Tillier</hi> and divers others were hurt, but (thanks be to God) it was not ſo: Collonel <hi>Cromwell</hi> and Captain <hi>Slaughter</hi> were unhorſt, Collonel <hi>Cromwels</hi> horſe ſlain, and Captaine <hi>Slaughters</hi> horſe fallen through weakneſſe, neither of the Gentlemen hurt. The Re<g ref="char:EOLhyphen"/>bels had intended a deadly plot, but the counſell of <hi>Achito<g ref="char:EOLhyphen"/>phel</hi> amongſt them (thanks be to God) took no eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct: it was the advice of Lieut. Generall <hi>Callim</hi> (now in the Caſtle of Dublin) not to give our Army barrell at all, but our horſes finding little food, and our men no bread, they ſhould onely follow our Army in their March home, and ſtill as they grew wearier and fainter, to fall ſometimes on the Reare, on ſometimes on the Carriages, and ſo at laſt on our Ordnance in the night, and ſo u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terly to cut off our Army, and to take <hi>Dublin,</hi> which might have been effected, but that God would defeat his counſell. Whereupon the Commanders knowing their own Forces to be great, and the weakneſſe of ours would, and being greedy of their prey, they thought to get in <hi>Dublin,</hi> would admit of no delay; they could not have patience to ſtay any longer: now having Saint <hi>Patricks</hi> bleſſings too, they made themſelves ſure (of what) not of their deſtruction, but ours, ſo and are yet confident, for ſure<g ref="char:EOLhyphen"/>ly he that is purblind may behold afar off their deviſes, and confidence of ſtrong aid to us from <hi>England:</hi> But <hi>England</hi> hath heretofore ſuffered ſo much of the Romiſh bondage from the Crown to the foot, that I hope, which I almoſt fear; it is an ill ſigne when the Hemlock ſhall grow, and
+<pb n="4" facs="tcp:155809:5"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155809:5"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:155809:6"/>
+               <!-- PDF PAGE 24 -->grow amongſt the Corn, and none to pluck it out, will it not make the husbandman to have little fruit in time of har<g ref="char:EOLhyphen"/>veſt: I am ſure they grow, and we diminiſh every day; but we will be tried by God, who hath his cauſe in hand. So proſper them O Lord.</p>
+            <p>Our Army returned ſafe (bleſſed be God) the 27. <hi>March,</hi> wearie and hungrie, not having any bread amongſt the poore footmen in five dayes: the horſemen got ſomewhat abroad riding hard for it, the poore footmen could not do ſo; and now we bleſſe God for their return, we commiſerate their miſerie, but cannot help them: we can hardly help our ſelves. I wiſh I could but preſent moſt of their faces, and in the ha<g ref="char:EOLhyphen"/>bite they are in, unto you in <hi>England,</hi> I hope that would make peace; no more but think what I writ not of them. I writ a letter of the 21. March, and the party that I was to ſend it by left it behind: it is worth the taking notice of, if I have not writ of it before. On Tueſday the 16. of March at Even, Collonel <hi>Crafford</hi> went forth into the County of <hi>Wicklowe,</hi> with about 600. foot, and about 60. horſe, retur<g ref="char:EOLhyphen"/>ned on Sunday night the 19. <hi>dicto,</hi> he brought home 800. oxen and cows, and about 1500. ſheep, goats and lambes, and left a thouſand ſheep that he could not drive through the water. The Rebels purſued him to Bray, and took the Ca<g ref="char:EOLhyphen"/>ſtle and Church before him for their Sanctuary, but God was not their Sanctuary; Collonel <hi>Crafford</hi> himſelf leading up the forlorne hope, beat them all out, and made them run; and came ſafe home with the loſſe of two men, but that plen<g ref="char:EOLhyphen"/>tie of cattell is not now known, through what are eaten and ſtolne from us. I reſt,</p>
+            <closer>
+               <signed>Your very loving Brother.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
